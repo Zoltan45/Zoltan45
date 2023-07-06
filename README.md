@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zoltan45
 - 👀 I’m interested in ...  retro game hacking
-- 🌱 I’m currently learning ...  Java
+- 🌱 I’m currently learning ...  assembly
 - 💞️ I’m looking to collaborate on ...  retro game hacking
 - 📫 How to reach me ...  my discord server at https://discord.gg/eUajnNb
 
