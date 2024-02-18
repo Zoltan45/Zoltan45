@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zoltan45
-- 👀 I’m interested in ...  retro game hacking
-- 🌱 I’m currently learning ...  assembly
-- 💞️ I’m looking to collaborate on ...  retro game hacking
+- 👀 I’m interested in ...  retro gaming
+- 🌱 I’m currently learning ...  lua and squirrel
+- 💞️ I’m looking to collaborate on ...  retro game hacks, mods, enhancements
 - 📫 How to reach me ...  my discord server at https://discord.gg/eUajnNb
 
 <!---
